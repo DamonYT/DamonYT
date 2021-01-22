@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I can code but according to some people it looks autisic
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Damons Spotify Playing" width="350" />](https://open.spotify.com/user/8zmzq7h38znxhr38nvgbw1jhn?si=nxHLLL9BTnayXw0c8fS3KQ)
+[<img src="https://damon-leigh-opd47gcex.vercel.app/api/spotify-playing" alt="Damons Spotify Playing" width="350" />](https://open.spotify.com/user/8zmzq7h38znxhr38nvgbw1jhn?si=nxHLLL9BTnayXw0c8fS3KQ)
 
 ### Connect with me:
 
